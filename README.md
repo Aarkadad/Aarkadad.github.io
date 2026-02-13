@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -643,10 +641,7 @@ background: rgba(118,75,162,1);
         }
     </style>
 </head>
-<body>
- 
-   
-     
+<body>   
    <div class ="nothead">
      
         <button class="nav-btn2" id="exportData">💾 </button>You Are A Filthy Chore
@@ -663,11 +658,7 @@ background: rgba(118,75,162,1);
  ⬇️       </button>
         <button class="nav-btn" id="collapseAll">
             ⬆️  Collapse ALL  ⬆️
-        </button> <button class ="nav-btn" onclick="scrollToTop()">^Back to Top^</button>  </div>
-
-
-    </br></br>
-    
+        </button> <button class ="nav-btn" onclick="scrollToTop()">^Back to Top^</button>  </div>  
     
     <div class="stats">
         <div class="stat">
