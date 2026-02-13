@@ -109,7 +109,6 @@ background: rgba(118,75,162,1);
             justify-content: space-around;
             padding: 15px 20px;
             background: white;
-            margin-bottom: 10px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
 
